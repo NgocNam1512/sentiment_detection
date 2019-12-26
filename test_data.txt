@@ -1,0 +1,18 @@
+Chất lượng sản phẩm tuyệt vời♥.
+POS	5
+Giao hàng lâu.
+NEG	2
+Hy vọng shop giao đẹp giống cái đầu tiên.
+NEU	3
+Giao hàng nhanh, hàng chắc chắn.
+POS	4
+Chất vải đẹp nhưng đường may k đẹp lắm.
+POS	4
+form áo khác trên hình và chất siêu mỏng.
+NEG	2
+Chất áo đẹp.
+POS	5
+Chất ok ạ.
+POS	4
+Xinh cực ✨✨.
+POS	5

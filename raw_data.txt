@@ -1,0 +1,75 @@
+Áo bao đẹp ạ!!
+POS	5
+Tuyệt vời !
+POS	5
+2day ao khong giong trong.
+NEG	1
+Mùi thơm,bôi lên da mềm da.
+POS	5
+Vải đẹp, dày dặn.
+POS	5
+Hàng rất đẹp, rất chi là ưng ý.
+POS	5
+Chất lượng sản phẩm tốt, date dài.
+POS	5
+Ăn nói và thái độ phục vụ tốt.
+POS	4
+Đóng gói sản phẩm chắc chắn.
+POS	5
+tất sờn hết ca chưa dùng mà vay r.
+NEG	2
+Shop phục vụ rất tốt.
+POS	5
+Mặc thì cũng đc.
+NEU	3
+Cảm giác mua hàng bị hớ thật tệ!
+NEG	2
+Khi mua về nên đi sửa lại.
+NEG	2
+NEG	1
+Thời gian giao hàng nhanh.
+POS	4
+Ảnh in đẹp.
+POS	5
+Giá lại rẻ.
+POS	5
+Quần áo super đẹp.
+POS	4
+Giao hàng thiếu, nt cho shop đã xem mà K có phản hồi gì.
+NEG	1
+Giao hàng lâu.
+NEG	2
+Sz 34 mà Khung ngực nhỏ quá.
+NEG	2
+Đóng gói sản phẩm rất đẹp và chắc chắn.
+POS	5
+Hàng y hình rất đẹp ạ ❤️.
+POS	5
+Thái đô kém Thời gian giao hàng rất chậm Shop phục vụ rất kém.
+NEG	1
+Bàn tay mỏng nên ko nâng lắm.
+NEG	2
+Đẹp lắm đấy.
+POS	4
+Áo giống hình, chất vải hơi nóng.
+POS	4
+Đóng gỏi không cẩn thận, shop nên đong hộp cứng đỡ bị móp bẹp túi.
+NEG	1
+Âm thanh rất dở.
+NEG	1
+Xấu và nhìn phom áo chán đời luôn.
+NEG	1
+Chất lượng sản phẩm tốt Đáng đồng tiền.
+POS	5
+Chuẩn quần vải đẹp ôm gọn chân, mà vải còn mát nữa .
+POS	5
+Shop vận chuyển hàng nhanh, váy khá ổn, mà còn đc tặng quà nữa hihi lắc tay nhỏ nhỏ xinh xinh khi nào đeo cho bé nhà 😍😍.
+POS	5
+Nhìn cái áo cũ màu không đẹp vãi mỏng không đág tiền lắm.
+NEG	2
+Đập vào mắt là 175000₫ làm mất hứng .Sản phẩm được. màu đậm hơn hình.áo có mùi như thuốc tẩy giặt mãi ko hết.
+NEG	2
+Chuẩn hàng Bitis.
+POS	4
+Màu ko đẹp như hình chup.
+NEG	1
